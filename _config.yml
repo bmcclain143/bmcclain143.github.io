@@ -1,2 +1,3 @@
 name: Shipwaves
 markdown: kramdown
+theme: jekyll-theme-midnight

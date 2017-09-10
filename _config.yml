@@ -3,3 +3,4 @@ markdown: kramdown
 theme: jekyll-theme-midnight
 incremental: true
 source: C:\Users\Britt\Documents\GitHub
+encoding: bom|utf-8

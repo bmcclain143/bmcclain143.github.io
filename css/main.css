@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url(Shipwaves.jpg);
+    background-image: url(../Shipwaves.jpg);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Roboto', 'Sans-Serif';
@@ -44,7 +44,7 @@ ul.posts li {
 }
 
 html { 
-  background: url(Shipwaves.jpg) no-repeat center center fixed; 
+  background: url(../Shipwaves.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
